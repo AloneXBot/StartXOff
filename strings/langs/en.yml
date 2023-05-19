@@ -142,7 +142,7 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "💌 ᴘʟᴀʏ ᴋᴀʟ ʟᴀʜɪ ʜᴜᴜ ʙᴀʙʏ.........ᴍᴜᴜᴜᴜᴜᴀᴀᴀᴀᴀᴀᴀʜ 😘"
+play_1 : "» 𝐀ℓοиє🥀𝐏яοϲєѕѕιиg🌷𝐖αιτ🌹𝐌єяι🥀𝐉ααи🌷𝐏ℓαγιиg🎙️𝐅οя🕹️𝐔н...😘"
 play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Query... Please Wait!\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
@@ -229,10 +229,10 @@ queue_4 : "**❤️‍🔥 ǫᴜᴇᴜᴇ ᴍᴇ ᴀᴅᴅ ᴋᴀʟ ᴅɪʏᴀ #
 queue_5 : "ǫᴜᴇᴜᴇ ᴍᴇ ɴᴀ ʙᴀʙʏ ᴇᴋ ʜɪ ᴛʀᴀᴄᴋ ʜ , ʟɪsᴛ ᴄʜᴇᴄᴋ ᴋᴀʟɴᴇ ᴋᴇ ʟɪʏᴇ ᴀᴜʟ ᴛʀᴀᴄᴋs ᴀᴅᴅ ᴋᴀʟɴᴀ ʙᴀʙʏ"
 
 # All Streaming Lines
-stream_1 : "🙈 **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** ❤️\n\n💌 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {0}\n🫣 **ɪɴғᴏʀᴍᴀᴛɪᴏɴ:** [ʜᴇʀᴇ ʙᴀʙʏ]({1})"
-stream_2 : "🙈 **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ ᴠɪᴀ ᴜʀʟ** ❤️\n\n💌 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {0}"
-stream_3 : "🙈 **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** ❤️\n\n🫧 **ᴛɪᴛᴛʟᴇ:** {0}\n⏰ **ᴅᴜʀᴀᴛɪᴏɴ**: {1}\n💌 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {2}"
-stream_4 : "🙈 **sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** ❤️\n\n🫧 **ᴛɪᴛᴛʟᴇ:** [{0}]({1})\n⏰ **ᴅᴜʀᴀᴛɪᴏɴ**: {2}\n💌 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {3}"
+stream_1 : "🙈 **ᴀʟᴏɴᴇ sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** ❤️\n\n💌 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {0}\n🫣 **ɪɴғᴏʀᴍᴀᴛɪᴏɴ:** [ᴀʟᴏɴᴇ ʙᴀʙʏ]({1})"
+stream_2 : "🙈 **ᴀʟᴏɴᴇ sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ ᴠɪᴀ ᴜʀʟ** ❤️\n\n💌 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {0}"
+stream_3 : "🙈 **ᴀʟᴏɴᴇ sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** ❤️\n\n🫧 **ᴛɪᴛᴛʟᴇ:** {0}\n⏰ **ᴅᴜʀᴀᴛɪᴏɴ**: {1}\n💌 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {2}"
+stream_4 : "🙈 **ᴀʟᴏɴᴇ sᴛᴀʀᴛᴇᴅ sᴛʀᴇᴀᴍɪɴɢ** ❤️\n\n🫧 **ᴛɪᴛᴛʟᴇ:** [{0}]({1})\n⏰ **ᴅᴜʀᴀᴛɪᴏɴ**: {2}\n💌 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {3}"
 
 # Inline Buttons
 
